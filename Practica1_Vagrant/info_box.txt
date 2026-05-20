@@ -1,0 +1,4 @@
+Box publicado en HashiCorp Cloud
+URL: https://portal.cloud.hashicorp.com/services/vagrant/registries/Jorge_Box_UAO/boxes/JEGR
+Versión: 1
+Provider: VirtualBox / amd64
